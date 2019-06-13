@@ -13,3 +13,7 @@ KDnuggets Dataset - Another collection of datasets - most of the datasets are fr
 If this seems like information overload, feel free to just get started with data at some of our favorite sites: US Government Data, UK Government Data, Canada's Open Data Exchange, World Health Organization, and the World Bank. 
 
 Remember, finding a dataset of interest and exploring it is most of your job for Week 9!  So expect this to take some time - and that's both perfectly normal and completely okay.
+
+
+Linear Regression basics
+https://www.youtube.com/watch?v=wYPUhge9w5c
