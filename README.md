@@ -14,6 +14,13 @@ If this seems like information overload, feel free to just get started with data
 
 Remember, finding a dataset of interest and exploring it is most of your job for Week 9!  So expect this to take some time - and that's both perfectly normal and completely okay.
 
-
-Linear Regression basics
+Some useful resources:
+1. Linear Regression basics & some tensorflow terms
 https://www.youtube.com/watch?v=wYPUhge9w5c
+2. Logistic Regressin basics
+https://www.youtube.com/watch?v=jbluHIgBmBo
+3. SVM
+https://www.youtube.com/watch?v=Lpr__X8zuE8
+
+Crash course on ML with Tensorflow
+https://developers.google.com/machine-learning/crash-course
