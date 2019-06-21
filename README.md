@@ -24,3 +24,6 @@ https://www.youtube.com/watch?v=Lpr__X8zuE8
 
 Crash course on ML with Tensorflow
 https://developers.google.com/machine-learning/crash-course
+
+Python Regex cheatsheet:
+https://www.rexegg.com/regex-quickstart.html
